@@ -1,4 +1,4 @@
-# Original code is by Les Hill, I just updated it so it can be used with Rails 7, which uses Haml 6, which was not supported with the previous version (v0.23.9)
+#### Original code is by Les Hill, I just updated it so it can be used with Rails 7, which uses Haml 6, which was not supported with the previous version (v0.23.9)
 
 # Use handlebars.js templates with the asset pipeline and/or sprockets
 

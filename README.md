@@ -1,3 +1,5 @@
+# Original code is by Les Hill, I just updated it so it can be used with Rails 7, which uses Haml 6, which was not supported with the previous version (v0.23.9)
+
 # Use handlebars.js templates with the asset pipeline and/or sprockets
 
 Are your `handlebars.js` templates littering your Rails views with `script` tags? Wondering why the nifty Rails 3.1 asset pipeline streamlines all your JavaScript except for your Handlebars templates? Wouldn't it be nice to have your Handlebars templates compiled, compressed, and cached like your other JavaScript?
